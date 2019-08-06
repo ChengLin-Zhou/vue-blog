@@ -1,4 +1,5 @@
 # vue-blog
+# 项目为vue2、vuex、vue-router构建的响应式个人博客系统
 # 
 
 # 项目启动步骤
